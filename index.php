@@ -124,7 +124,7 @@
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item12" value="Somjed" /> </td>  <td> <pre>Somjed</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item13" value="Pattharapong" /> </td>  <td> <pre>Pattharapong</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item14" value="Chawakorn" /> </td>  <td> <pre>Chawakorn</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item15" value="Yuthana" /> </td>  <td> <pre>Yuthana</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item15" value="Yutthana" /> </td>  <td> <pre>Yutthana</pre></td> </tr>
   <td></td>  
   </tr>
   </tr>  
