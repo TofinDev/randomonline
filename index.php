@@ -110,13 +110,16 @@
   </tr>  
 
 </thead>    
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Nipon" /> </td>  <td> <pre>Nipon</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Chanwit" /> </td>  <td> <pre>Chanwit</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Somneuk" /> </td>  <td> <pre>Somneuk</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Kanyarut" /> </td>  <td> <pre>Kanyarut</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item2" value="Sawanya" /> </td>  <td> <pre>Sawanya</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item3" value="Nattapong" /> </td>  <td> <pre>Nattapong</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item4" value="Somboon" /> </td>  <td> <pre>Somboon</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item5" value="Nittaya" /> </td>  <td> <pre>Nittaya</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item6" value="Metapoom" /> </td>  <td> <pre>Metapoom</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item7" value="Anusorn" /> </td>  <td> <pre>Anusorn</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item7" value="P_Nattawut" /> </td>  <td> <pre>P_Nattawut</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item8" value="Puchit" /> </td>  <td> <pre>Puchit</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item9" value="Eakkarin" /> </td>  <td> <pre>Eakkarin</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item10" value="Poonnapop" /> </td>  <td> <pre>Poonnapop</pre></td> </tr>
