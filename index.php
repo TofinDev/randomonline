@@ -110,25 +110,23 @@
   </tr>  
 
 </thead>    
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Nipon" /> </td>  <td> <pre>Nipon</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Chanchai" /> </td>  <td> <pre>Chanchai</pre></td> </tr>
   <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Chanwit" /> </td>  <td> <pre>Chanwit</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Somneuk" /> </td>  <td> <pre>Somneuk</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Kanyarut" /> </td>  <td> <pre>Kanyarut</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item2" value="Sawanya" /> </td>  <td> <pre>Sawanya</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item3" value="Nattapong" /> </td>  <td> <pre>Nattapong</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item4" value="Somboon" /> </td>  <td> <pre>Somboon</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item5" value="Nittaya" /> </td>  <td> <pre>Nittaya</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item6" value="Metapoom" /> </td>  <td> <pre>Metapoom</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item7" value="P_Nattawut" /> </td>  <td> <pre>P_Nattawut</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item8" value="Puchit" /> </td>  <td> <pre>Puchit</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item9" value="Eakkarin" /> </td>  <td> <pre>Eakkarin</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item10" value="Poonnapop" /> </td>  <td> <pre>Poonnapop</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item11" value="Sarawut_Fu" /> </td>  <td> <pre>Sarawut_Fu</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item12" value="Somjed" /> </td>  <td> <pre>Somjed</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item13" value="Pattharapong" /> </td>  <td> <pre>Pattharapong</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item14" value="Chawakorn" /> </td>  <td> <pre>Chawakorn</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item15" value="Yutthana" /> </td>  <td> <pre>Yutthana</pre></td> </tr>
-  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item16" value="Eaknarin" /> </td>  <td> <pre>Eaknarin</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Donrawat" /> </td>  <td> <pre>Donrawat</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item1" value="Eakkarin" /> </td>  <td> <pre>Eakkarin</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item2" value="Kanyarut" /> </td>  <td> <pre>Kanyarut</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item3" value="Metapoom" /> </td>  <td> <pre>Metapoom</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item4" value="Nattapong" /> </td>  <td> <pre>Nattapong</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item5" value="Nattawut" /> </td>  <td> <pre>Nattawut</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item6" value="Nipon" /> </td>  <td> <pre>Nipon</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item7" value="Nittaya" /> </td>  <td> <pre>Nittaya</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item8" value="Poonnapop" /> </td>  <td> <pre>Poonnapop</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item9" value="Puchit" /> </td>  <td> <pre>Puchit</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item10" value="Sarawut" /> </td>  <td> <pre>Sarawut</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item11" value="Sawanya" /> </td>  <td> <pre>Sawanya</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item12" value="Somboon" /> </td>  <td> <pre>Somboon</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item13" value="Somneuk" /> </td>  <td> <pre>Somneuk</pre></td> </tr>
+  <tr> <td width="50" align="center"> <input name="chk[]" type="checkbox" class="css_data_item" id="data_item14" value="Yutthana" /> </td>  <td> <pre>Yutthana</pre></td> </tr>
   <td></td>  
   </tr>
   </tr>  
