@@ -119,7 +119,7 @@ $a=$_POST['chk'];
 
     if(sizeof($a)==3 || sizeof($a)==4){
           if(sizeof($a)==3){
-            $zone = array("⭐ 🚨 FTTX Main AC + Node Down ::  ","⭐ EDFA TVS + UL OLT ::  ","⭐ FTTX ODN & DOCSIS ::  ");
+            $zone = array("⭐ FTTX Main AC + Node Down ::  ","⭐ EDFA TVS + UL OLT ::  ","⭐ FTTX ODN & DOCSIS ::  ");
             $emoji = array("😀","😂","😋","😎","😘","😍","😆","😎","😜","😛");
 
 
@@ -147,7 +147,7 @@ $a=$_POST['chk'];
           }
           if(sizeof($a)==4){
 
-                  $zone = array("⭐ 🚨 FTTX Main AC + Node Down ::  ","⭐ EDFA TVS + UL OLT  ::  ","⭐ FTTX ODN ::  ","⭐ DOCSIS ::  ");
+                  $zone = array("⭐ FTTX Main AC + Node Down ::  ","⭐ EDFA TVS + UL OLT  ::  ","⭐ FTTX ODN ::  ","⭐ DOCSIS ::  ");
                   $emoji = array("😀","😂","😋","😎","😘","😍","😆","😎","😜","😛");
 
                   $a=$_POST['chk'];
