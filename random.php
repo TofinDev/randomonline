@@ -138,7 +138,7 @@ $a=$_POST['chk'];
 
               for($i=0;$i<sizeof($a);$i++){
                 echo "<pre>";	
-                (" ").print_r($zone[$i]).(" ").print_r($emoji[$i]).print_r("  ".$a[$i]).(""); 
+                (" ").print_r($zone[$i]).print_r($emoji[$i]).print_r("  ".$a[$i]).(""); 
                 echo "<br>";
                 echo "</pre>";
 
@@ -166,7 +166,7 @@ $a=$_POST['chk'];
 
                   for($i=0;$i<sizeof($a);$i++){
                     echo "<pre>";	
-                    (" ").print_r($zone[$i]).(" ").print_r($emoji[$i]).print_r("  ".$a[$i]).(""); 
+                    (" ").print_r($zone[$i]).print_r($emoji[$i]).print_r("  ".$a[$i]).(""); 
                     echo "<br>";
                     echo "</pre>";
 
